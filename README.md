@@ -38,7 +38,7 @@ on every year that is evenly divisible by 4
 For example, 1997 is not a leap year, but 1996 is. 1900 is not a leap year, but 2000 is.
 
 #### Results Screenshot
-![Challenge Two screenshot](/Screenshots/problem-two.jpg)
+![Challenge Two screenshot](/screenshots/problem-two.jpg)
 
 ## Challenge Three
 ### Perfect Sequence
@@ -62,7 +62,7 @@ Yes
 1 * 3 * 2 = 6 && 1 + 3 + 2 = 6
 
 #### Results Screenshot
-![Challenge Three screenshot](/Screenshots/problem-three.jpg)
+![Challenge Three screenshot](/screenshots/problem-three.jpg)
 
 ## Challenge Four
 ### Sum of Rows
@@ -86,4 +86,4 @@ int[,] myArray = new int[3, 5] { { 1, 2, 3, 4, 5 }, { 6, 7, 8, 9, 10 }, { 11, 12
 {10,40,65} <-- an integer array
 
 #### Results Screenshot
-![Challenge Four screenshot](/Screenshots/problem-four.jpg)
+![Challenge Four screenshot](/screenshots/problem-four.jpg)
