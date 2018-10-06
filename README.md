@@ -21,7 +21,7 @@ An array of integers, and the number chosen.
 8
 
 #### Results Screenshot
-![Challenge One screenshot](/Screenshots/problem-one.jpg)
+![Challenge One screenshot](/screenshots/problem-one.jpg)
 
 ## Challenge Two
 ### Leap Year Calculator
